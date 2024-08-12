@@ -18,7 +18,7 @@ function AboutSection() {
           <p className="font-medium mb-5 text-[#16f2b3] text-xl uppercase">
             Who am I?
           </p>
-          <p className="text-gray-200 text-sm lg:text-lg">
+          <p className="text-gray-200 text-sm lg:text-2xl">
             {personalData.description}
           </p>
         </div>
@@ -28,7 +28,7 @@ function AboutSection() {
             width={280}
             height={280}
             alt="Sonu Gupta"
-            className="rounded-lg transition-all duration-1000 grayscale hover:grayscale-0 hover:scale-110 cursor-pointer"
+            className="rounded-lg transition-all duration-1000 grayscale hover:grayscale-0 hover:scale-110 cursor-pointer mt-8"
           />
         </div>
       </div>
