@@ -26,6 +26,16 @@ export const projectsData = [
     },
     {
         id: 3,
+        name: 'Wordle+',
+        description: 'Building next generation of Wordle game',
+        tools: ['Pygame', 'Python', 'Git', 'Figma'],
+        role: 'Lead Developer',
+        code: '',
+        demo: '',
+        image: travel,
+    },
+    {
+        id: 4,
         name: 'AI Powered Rate My Professor',
         description: 'Coming soon!.',
         tools: ['IN PROGRESS'],
@@ -35,7 +45,7 @@ export const projectsData = [
         image: realEstate,
     },
     {
-        id: 4,
+        id: 5,
         name: 'AI Flashcards',
         description: "Coming soon!.",
         tools: ['IN PROGRESSS'],
@@ -45,7 +55,7 @@ export const projectsData = [
         role: 'Software Engineer',
     },
     {
-        id: 5,
+        id: 6,
         name: 'AI Customer Support',
         description: "Coming soon!.",
         tools: ['IN PROGRESSS'],
@@ -55,7 +65,7 @@ export const projectsData = [
         role: 'Software Engineer',
     },
     {
-        id: 6,
+        id: 7,
         name: 'Food Management',
         description: "Coming soon!.",
         tools: ['React', 'Material-UI', 'Firebase', 'Next.js', 'Node.js'],
