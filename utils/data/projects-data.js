@@ -37,9 +37,9 @@ export const projectsData = [
     {
         id: 4,
         name: 'Trendi',
-        description: 'Engineered a mobile app for exploring trending movies by implementing REST API calls with AsyncHTTPClient, and led a team of three in developing a scalable, responsive UI/UX using Glide, ConstraintLayout, RecyclerView, and XML.',
+        description: 'Engineered a mobile application that allows users to explore trending movies, implementing efficient REST API calls using AsyncHTTPClient. Led a team of 3 developers to create a scalable and responsive user interface, utilizing Glide for image loading, ConstraintLayout and RecyclerView for dynamic UI design, and XML for custom layouts, ensuring a seamless and engaging user experience.',
         tools: ['Kotlin', 'XML', 'JSON', 'Gradle', 'Android Studio'],
-        role: 'Android Engineer',
+        role: 'Lead Android Developer',
         code: '',
         demo: '',
         image: travel,
