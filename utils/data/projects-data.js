@@ -27,9 +27,9 @@ export const projectsData = [
     {
         id: 3,
         name: 'Wordle+',
-        description: 'Building next generation of Wordle game',
+        description: 'Co-led a team of 5 student developers to design and build the next generation of the Wordle game application, integrating features of both Wordle and Hangman. Leveraged Python, Pygame, Git, and Object-Oriented Design to create an advanced and engaging gameplay experience. Spearheaded the development of a unique feature using the OpenAI API, enabling users to learn a new word at the end of each game, thereby enhancing the educational value of the gaming experience.',
         tools: ['Pygame', 'Python', 'Git', 'Figma'],
-        role: 'Lead Developer',
+        role: 'Co-Lead Developer',
         code: '',
         demo: '',
         image: travel,
